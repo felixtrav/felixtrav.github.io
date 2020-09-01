@@ -1,4 +1,3 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 # Introduction to Biotechnology
 
 **Biotechnology** - Using living organisms, or the products of living organisms, for human benefit to make a product or solve a problem.
