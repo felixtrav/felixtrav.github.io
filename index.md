@@ -1,6 +1,6 @@
 ## Welcome to my Github Pages site.
 
-I am currently using this site for class notes and projects. I use this site to keep an easily accessible archive of notes for me and my colleagues.
+I am currently using this site for class notes and projects. I use this site to keep an easily accessible archive of notes for myself and others.
 
 ### Classes (Fall 2020)
 
