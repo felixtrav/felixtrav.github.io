@@ -42,7 +42,7 @@ Interdisciplinary field that relies on basic sciences.
 - **Fermentation**
     - Ex. fruit, rice, and honey to make alcoholic beverage
     - Early civilizations fermenting sugars to make alcoholic beverages
-    - $$C_6H_{12}O_6→2 C_2H_5OH + 2 CO_2$$
+    - $C_6H_{12}O_6→2 C_2H_5OH + 2 CO_2$
 - **Use of Antibiotics**
     - Ex. Alexander Fleming discovered penicillin in 1928
 
