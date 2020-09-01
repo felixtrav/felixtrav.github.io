@@ -11,11 +11,12 @@
         gtag('js', new Date());
         gtag('config', '{{ site.google_analytics }}');
     </script>
+    {% endif %}
+
     <!-- MathJax -->
     <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
         </script>
-    {% endif %}
     <meta charset="UTF-8">
 
     {% seo %}
@@ -26,7 +27,6 @@
 </head>
 
 <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
         <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
