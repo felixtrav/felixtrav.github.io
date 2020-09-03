@@ -57,7 +57,7 @@ An expression has a ***value***, which has a type
 
 The syntax for a simple expression is: 
 
--   ***<object> <operator> <object>***
+-   `<object> <operator> <object>`
 
 
 
